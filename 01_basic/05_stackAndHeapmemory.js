@@ -11,7 +11,7 @@ console.log(myName2)
 
 
 //Heap
-//variable will be in stack but values will store in heap and it has one reference which is poointing to those values or object in heap
+//variable will be in stack but values will store in heap and it has one reference which is pointing to those values or object in heap
 //whatever changes made it will effect in original data/values (kindly refeer the screen which is uploaded for better understanding)
 let userOne={
     name :"Rajkumar",
